@@ -532,4 +532,21 @@ export const resources: Resource[] = [
         url: 'https://www.fusioncharts.com/',
         icon: 'https://www.fusioncharts.com/public/favicon/favicon-32x32.png',
     },
+    {
+        name: 'Float UI',
+        categories: [programming.templates],
+        description:
+            'Float UI - free web development tool for easy creation of modern, responsive websites with sleek design, even for non-designers',
+        keywords: [
+            'templates',
+            'site templates',
+            'website templates',
+            'freebies',
+            'html5',
+            'css',
+            'responsive',
+         ],
+        url: 'https://floatui.com/',
+        icon: 'https://ph-files.imgix.net/f990ffb1-3eb0-4737-9521-aeb82adef802.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=64&h=64&fit=crop&dpr=1',
+    }
 ]
